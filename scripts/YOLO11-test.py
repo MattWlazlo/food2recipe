@@ -18,10 +18,6 @@ def fruit_finder(path):
             
             
 fruit_finder("/home/mwlazlo/food2recipe/sample-images/apples.jpg")
-fruit_finder("/home/mwlazlo/food2recipe/sample-images/fruits.jpg")
-fruit_finder("/home/mwlazlo/food2recipe/sample-images/fruits2.jpg")
-fruit_finder("/home/mwlazlo/food2recipe/sample-images/grapes.jpg")
-fruit_finder("/home/mwlazlo/food2recipe/sample-images/kiwi.jpg")
 
 '''
 NOTES:
